@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FraserChapman/gowol](https://github.com/FraserChapman/gowol) - Go-based Wake-on-LAN (WOL) tool with cross-platform support for Linux, Windows, and macOS (2 weeks ago)
+- [FraserChapman/gowol](https://github.com/FraserChapman/gowol) - Go-based Wake-on-LAN (WOL) tool with cross-platform support for Linux, Windows, and macOS (today)
 - [FraserChapman/gritstone100](https://github.com/FraserChapman/gritstone100) - Web site for the gritstone 100 trail in the Peak District  (1 month ago)
 - [FraserChapman/pigo](https://github.com/FraserChapman/pigo) - Go installation and removal scripts for Raspberry Pi ARM64 (7 months ago)
 - [FraserChapman/pisass](https://github.com/FraserChapman/pisass) - Sass installation and removal scripts for Raspberry Pi ARM64 (7 months ago)
@@ -66,8 +66,8 @@
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability (10 months ago)
 - [FraserChapman/plunger](https://github.com/FraserChapman/plunger) - A Youtube adblock-block-un-blocker browser extension (10 months ago)
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML (11 months ago)
-- [FraserChapman/gophersay](https://github.com/FraserChapman/gophersay) - A tiny command-line tool written in Go that displays a cute ASCII art of the go gopher along with a customizable message. (11 months ago)
-- [FraserChapman/repository.film.archives](https://github.com/FraserChapman/repository.film.archives) - Kodi plugins for various film and television archives (11 months ago)
+- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (11 months ago)
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements (2 years ago)
 
 
 #### 💬 Feedback
