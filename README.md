@@ -60,14 +60,14 @@
 
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 days ago)
 - [NVIDIA/ChatRTX](https://github.com/NVIDIA/ChatRTX) - A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM (4 weeks ago)
-- [FraserChapman/gowol](https://github.com/FraserChapman/gowol) - Go-based Wake-on-LAN (WOL) tool with cross-platform support for Linux, Windows, and macOS (4 weeks ago)
-- [FraserChapman/gritstone100](https://github.com/FraserChapman/gritstone100) - Web site for the gritstone 100 trail in the Peak District  (1 month ago)
 - [lukasoppermann/html5sortable](https://github.com/lukasoppermann/html5sortable) - VanillaJS sortable lists and grids using native HTML5 drag and drop API. (7 months ago)
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang&#39;s database/sql (8 months ago)
 - [Packstack-Tech/app](https://github.com/Packstack-Tech/app) - Frontend application (8 months ago)
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability (10 months ago)
-- [FraserChapman/pigo](https://github.com/FraserChapman/pigo) - Go installation and removal scripts for Raspberry Pi ARM64 (10 months ago)
-- [FraserChapman/script.module.cache](https://github.com/FraserChapman/script.module.cache) - Kodi HTTP cache module using sqlite3  (10 months ago)
+- [FraserChapman/plunger](https://github.com/FraserChapman/plunger) - A Youtube adblock-block-un-blocker browser extension (10 months ago)
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML (11 months ago)
+- [FraserChapman/gophersay](https://github.com/FraserChapman/gophersay) - A tiny command-line tool written in Go that displays a cute ASCII art of the go gopher along with a customizable message. (11 months ago)
+- [FraserChapman/repository.film.archives](https://github.com/FraserChapman/repository.film.archives) - Kodi plugins for various film and television archives (11 months ago)
 
 
 #### 💬 Feedback
