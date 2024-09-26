@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FraserChapman/gowol](https://github.com/FraserChapman/gowol) - Go-based Wake-on-LAN (WOL) tool with cross-platform support for Linux, Windows, and macOS (today)
+- [FraserChapman/gowol](https://github.com/FraserChapman/gowol) - Go-based Wake-on-LAN (WOL) tool with cross-platform support for Linux, Windows, and macOS (1 day ago)
 - [FraserChapman/gritstone100](https://github.com/FraserChapman/gritstone100) - Web site for the gritstone 100 trail in the Peak District  (1 month ago)
 - [FraserChapman/pigo](https://github.com/FraserChapman/pigo) - Go installation and removal scripts for Raspberry Pi ARM64 (7 months ago)
-- [FraserChapman/pisass](https://github.com/FraserChapman/pisass) - Sass installation and removal scripts for Raspberry Pi ARM64 (7 months ago)
+- [FraserChapman/pisass](https://github.com/FraserChapman/pisass) - Sass installation and removal scripts for Raspberry Pi ARM64 (8 months ago)
 - [FraserChapman/plunger](https://github.com/FraserChapman/plunger) - A Youtube adblock-block-un-blocker browser extension (10 months ago)
 - [FraserChapman/gophersay](https://github.com/FraserChapman/gophersay) - A tiny command-line tool written in Go that displays a cute ASCII art of the go gopher along with a customizable message. (11 months ago)
 - [FraserChapman/repository.film.archives](https://github.com/FraserChapman/repository.film.archives) - Kodi plugins for various film and television archives (11 months ago)
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FraserChapman/gowol](https://github.com/FraserChapman/gowol) ([v1.0.0](https://github.com/FraserChapman/gowol/releases/tag/v1.0.0), 4 weeks ago) - Go-based Wake-on-LAN (WOL) tool with cross-platform support for Linux, Windows, and macOS
+- [FraserChapman/gowol](https://github.com/FraserChapman/gowol) ([v1.0.0](https://github.com/FraserChapman/gowol/releases/tag/v1.0.0), 1 month ago) - Go-based Wake-on-LAN (WOL) tool with cross-platform support for Linux, Windows, and macOS
 - [FraserChapman/gritstone100](https://github.com/FraserChapman/gritstone100) ([v1.0.0](https://github.com/FraserChapman/gritstone100/releases/tag/v1.0.0), 1 month ago) - Web site for the gritstone 100 trail in the Peak District 
 - [FraserChapman/plunger](https://github.com/FraserChapman/plunger) ([v1.0.1](https://github.com/FraserChapman/plunger/releases/tag/v1.0.1), 10 months ago) - A Youtube adblock-block-un-blocker browser extension
 - [FraserChapman/gophersay](https://github.com/FraserChapman/gophersay) ([v1.0.0](https://github.com/FraserChapman/gophersay/releases/tag/v1.0.0), 11 months ago) - A tiny command-line tool written in Go that displays a cute ASCII art of the go gopher along with a customizable message.
@@ -45,7 +45,7 @@
 
 #### 📜 My recent blog posts
 
-- [The Blind Leading the Brand](https://fraserchapman.blogspot.com/2024/09/the-blind-leading-brand.html) (today)
+- [The Blind Leading the Brand](https://fraserchapman.blogspot.com/2024/09/the-blind-leading-brand.html) (1 day ago)
 - [Fictional Facts and Factual Fiction](https://fraserchapman.blogspot.com/2024/09/fictional-facts-and-factual-fiction.html) (2 weeks ago)
 - [Dark Matters](https://fraserchapman.blogspot.com/2024/08/dark-matters.html) (1 month ago)
 - [I choo choo choose utilitarianism](https://fraserchapman.blogspot.com/2024/04/i-choo-choo-choose-utilitarianism.html) (5 months ago)
@@ -58,7 +58,7 @@
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 days ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (3 days ago)
 - [NVIDIA/ChatRTX](https://github.com/NVIDIA/ChatRTX) - A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM (4 weeks ago)
 - [lukasoppermann/html5sortable](https://github.com/lukasoppermann/html5sortable) - VanillaJS sortable lists and grids using native HTML5 drag and drop API. (7 months ago)
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang&#39;s database/sql (8 months ago)
