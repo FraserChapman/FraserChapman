@@ -58,13 +58,13 @@
 
 #### ⭐ Recent Stars
 
+- [gliderlabs/ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang (today)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 week ago)
 - [NVIDIA/ChatRTX](https://github.com/NVIDIA/ChatRTX) - A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM (1 month ago)
 - [lukasoppermann/html5sortable](https://github.com/lukasoppermann/html5sortable) - VanillaJS sortable lists and grids using native HTML5 drag and drop API. (7 months ago)
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang&#39;s database/sql (8 months ago)
 - [Packstack-Tech/app](https://github.com/Packstack-Tech/app) - Frontend application (9 months ago)
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability (10 months ago)
-- [FraserChapman/plunger](https://github.com/FraserChapman/plunger) - A Youtube adblock-block-un-blocker browser extension (10 months ago)
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML (11 months ago)
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (11 months ago)
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements (2 years ago)
