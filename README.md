@@ -7,8 +7,6 @@
 - [FraserChapman/pigo](https://github.com/FraserChapman/pigo) - Go installation and removal scripts for Raspberry Pi ARM64 (7 months ago)
 - [FraserChapman/pisass](https://github.com/FraserChapman/pisass) - Sass installation and removal scripts for Raspberry Pi ARM64 (8 months ago)
 - [FraserChapman/plunger](https://github.com/FraserChapman/plunger) - A Youtube adblock-block-un-blocker browser extension (10 months ago)
-- [FraserChapman/gophersay](https://github.com/FraserChapman/gophersay) - A tiny command-line tool written in Go that displays a cute ASCII art of the go gopher along with a customizable message. (11 months ago)
-- [FraserChapman/repository.film.archives](https://github.com/FraserChapman/repository.film.archives) - Kodi plugins for various film and television archives (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -17,11 +15,6 @@
 - [FraserChapman/plunger](https://github.com/FraserChapman/plunger) - A Youtube adblock-block-un-blocker browser extension
 - [FraserChapman/gophersay](https://github.com/FraserChapman/gophersay) - A tiny command-line tool written in Go that displays a cute ASCII art of the go gopher along with a customizable message.
 - [FraserChapman/pigo](https://github.com/FraserChapman/pigo) - Go installation and removal scripts for Raspberry Pi ARM64
-- [FraserChapman/gritstone100](https://github.com/FraserChapman/gritstone100) - Web site for the gritstone 100 trail in the Peak District 
-- [FraserChapman/plugin.video.ntsv](https://github.com/FraserChapman/plugin.video.ntsv) - Kodi plugin for Ngā Taonga Sound &amp; Vision
-- [FraserChapman/plugin.video.nfpf](https://github.com/FraserChapman/plugin.video.nfpf) - Kodi plugin for the National Film Preservation Foundation
-- [FraserChapman/plugin.video.ng](https://github.com/FraserChapman/plugin.video.ng) - Kodi plugin for National Geographic
-- [FraserChapman/plugin.video.pa](https://github.com/FraserChapman/plugin.video.pa) - Kodi plugin for the Prelinger Archives
 
 #### 🔭 Latest releases I've contributed to
 
@@ -37,11 +30,6 @@
 - [Adds cacheBustingEnabled setting to simple browser](https://github.com/microsoft/vscode/pull/205106) on [microsoft/vscode](https://github.com/microsoft/vscode) (7 months ago)
 - [Fixes privacyenhanced being applied by default](https://github.com/FraserChapman/plunger/pull/3) on [FraserChapman/plunger](https://github.com/FraserChapman/plunger) (10 months ago)
 - [[script.module.cache] 1.0.3](https://github.com/xbmc/repo-scripts/pull/1125) on [xbmc/repo-scripts](https://github.com/xbmc/repo-scripts) (5 years ago)
-- [[script.module.cache] 1.0.2](https://github.com/xbmc/repo-scripts/pull/1124) on [xbmc/repo-scripts](https://github.com/xbmc/repo-scripts) (5 years ago)
-- [[plugin.video.eafa] 1.1.0](https://github.com/xbmc/repo-plugins/pull/2479) on [xbmc/repo-plugins](https://github.com/xbmc/repo-plugins) (5 years ago)
-- [[script.module.cache] 1.0.2](https://github.com/xbmc/repo-scripts/pull/1115) on [xbmc/repo-scripts](https://github.com/xbmc/repo-scripts) (5 years ago)
-- [[plugin.video.eafa 1.1.0](https://github.com/xbmc/repo-plugins/pull/2477) on [xbmc/repo-plugins](https://github.com/xbmc/repo-plugins) (5 years ago)
-- [[plugin.video.ntsv] 1.0.0](https://github.com/xbmc/repo-plugins/pull/2470) on [xbmc/repo-plugins](https://github.com/xbmc/repo-plugins) (5 years ago)
 
 #### 📜 My recent blog posts
 
@@ -63,11 +51,6 @@
 - [NVIDIA/ChatRTX](https://github.com/NVIDIA/ChatRTX) - A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM (1 month ago)
 - [lukasoppermann/html5sortable](https://github.com/lukasoppermann/html5sortable) - VanillaJS sortable lists and grids using native HTML5 drag and drop API. (7 months ago)
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang&#39;s database/sql (8 months ago)
-- [Packstack-Tech/app](https://github.com/Packstack-Tech/app) - Frontend application (9 months ago)
-- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability (10 months ago)
-- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML (11 months ago)
-- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (11 months ago)
-- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements (2 years ago)
 
 
 #### 💬 Feedback
