@@ -46,8 +46,8 @@
 
 #### ⭐ Recent Stars
 
-- [gliderlabs/ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang (1 week ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 weeks ago)
+- [gliderlabs/ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang (2 weeks ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (3 weeks ago)
 - [NVIDIA/ChatRTX](https://github.com/NVIDIA/ChatRTX) - A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM (1 month ago)
 - [lukasoppermann/html5sortable](https://github.com/lukasoppermann/html5sortable) - VanillaJS sortable lists and grids using native HTML5 drag and drop API. (7 months ago)
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang&#39;s database/sql (9 months ago)
