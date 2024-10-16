@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FraserChapman/gowol](https://github.com/FraserChapman/gowol) - Go-based Wake-on-LAN (WOL) tool with cross-platform support for Linux, Windows, and macOS (2 weeks ago)
+- [FraserChapman/gowol](https://github.com/FraserChapman/gowol) - Go-based Wake-on-LAN (WOL) tool with cross-platform support for Linux, Windows, and macOS (3 weeks ago)
 - [FraserChapman/gritstone100](https://github.com/FraserChapman/gritstone100) - Web site for the gritstone 100 trail in the Peak District  (1 month ago)
 - [FraserChapman/pigo](https://github.com/FraserChapman/pigo) - Go installation and removal scripts for Raspberry Pi ARM64 (8 months ago)
 - [FraserChapman/pisass](https://github.com/FraserChapman/pisass) - Sass installation and removal scripts for Raspberry Pi ARM64 (8 months ago)
@@ -33,7 +33,7 @@
 
 #### 📜 My recent blog posts
 
-- [The Blind Leading the Brand](https://fraserchapman.blogspot.com/2024/09/the-blind-leading-brand.html) (2 weeks ago)
+- [The Blind Leading the Brand](https://fraserchapman.blogspot.com/2024/09/the-blind-leading-brand.html) (3 weeks ago)
 - [Fictional Facts and Factual Fiction](https://fraserchapman.blogspot.com/2024/09/fictional-facts-and-factual-fiction.html) (1 month ago)
 - [Dark Matters](https://fraserchapman.blogspot.com/2024/08/dark-matters.html) (2 months ago)
 - [I choo choo choose utilitarianism](https://fraserchapman.blogspot.com/2024/04/i-choo-choo-choose-utilitarianism.html) (6 months ago)
