@@ -19,7 +19,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [FraserChapman/gowol](https://github.com/FraserChapman/gowol) ([v1.0.0](https://github.com/FraserChapman/gowol/releases/tag/v1.0.0), 1 month ago) - Go-based Wake-on-LAN (WOL) tool with cross-platform support for Linux, Windows, and macOS
-- [FraserChapman/gritstone100](https://github.com/FraserChapman/gritstone100) ([v1.0.0](https://github.com/FraserChapman/gritstone100/releases/tag/v1.0.0), 1 month ago) - Web site for the gritstone 100 trail in the Peak District 
+- [FraserChapman/gritstone100](https://github.com/FraserChapman/gritstone100) ([v1.0.0](https://github.com/FraserChapman/gritstone100/releases/tag/v1.0.0), 2 months ago) - Web site for the gritstone 100 trail in the Peak District 
 - [FraserChapman/plunger](https://github.com/FraserChapman/plunger) ([v1.0.1](https://github.com/FraserChapman/plunger/releases/tag/v1.0.1), 11 months ago) - A Youtube adblock-block-un-blocker browser extension
 - [FraserChapman/gophersay](https://github.com/FraserChapman/gophersay) ([v1.0.0](https://github.com/FraserChapman/gophersay/releases/tag/v1.0.0), 11 months ago) - A tiny command-line tool written in Go that displays a cute ASCII art of the go gopher along with a customizable message.
 
