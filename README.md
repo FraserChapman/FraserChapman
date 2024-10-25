@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FraserChapman/gritstone100](https://github.com/FraserChapman/gritstone100) - Web site for the gritstone 100 trail in the Peak District  (5 days ago)
-- [FraserChapman/gowol](https://github.com/FraserChapman/gowol) - Go-based Wake-on-LAN (WOL) tool with cross-platform support for Linux, Windows, and macOS (4 weeks ago)
+- [FraserChapman/gritstone100](https://github.com/FraserChapman/gritstone100) - Web site for the gritstone 100 trail in the Peak District  (6 days ago)
+- [FraserChapman/gowol](https://github.com/FraserChapman/gowol) - Go-based Wake-on-LAN (WOL) tool with cross-platform support for Linux, Windows, and macOS (1 month ago)
 - [FraserChapman/pigo](https://github.com/FraserChapman/pigo) - Go installation and removal scripts for Raspberry Pi ARM64 (8 months ago)
 - [FraserChapman/pisass](https://github.com/FraserChapman/pisass) - Sass installation and removal scripts for Raspberry Pi ARM64 (8 months ago)
 - [FraserChapman/plunger](https://github.com/FraserChapman/plunger) - A Youtube adblock-block-un-blocker browser extension (11 months ago)
