@@ -6,7 +6,7 @@
 - [FraserChapman/gowol](https://github.com/FraserChapman/gowol) - Go-based Wake-on-LAN (WOL) tool with cross-platform support for Linux, Windows, and macOS (1 month ago)
 - [FraserChapman/pigo](https://github.com/FraserChapman/pigo) - Go installation and removal scripts for Raspberry Pi ARM64 (9 months ago)
 - [FraserChapman/pisass](https://github.com/FraserChapman/pisass) - Sass installation and removal scripts for Raspberry Pi ARM64 (9 months ago)
-- [FraserChapman/plunger](https://github.com/FraserChapman/plunger) - A Youtube adblock-block-un-blocker browser extension (11 months ago)
+- [FraserChapman/plunger](https://github.com/FraserChapman/plunger) - A Youtube adblock-block-un-blocker browser extension (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -20,14 +20,14 @@
 
 - [FraserChapman/gowol](https://github.com/FraserChapman/gowol) ([v1.0.0](https://github.com/FraserChapman/gowol/releases/tag/v1.0.0), 2 months ago) - Go-based Wake-on-LAN (WOL) tool with cross-platform support for Linux, Windows, and macOS
 - [FraserChapman/gritstone100](https://github.com/FraserChapman/gritstone100) ([v1.0.0](https://github.com/FraserChapman/gritstone100/releases/tag/v1.0.0), 2 months ago) - Web site for the gritstone 100 trail in the Peak District 
-- [FraserChapman/plunger](https://github.com/FraserChapman/plunger) ([v1.0.1](https://github.com/FraserChapman/plunger/releases/tag/v1.0.1), 11 months ago) - A Youtube adblock-block-un-blocker browser extension
+- [FraserChapman/plunger](https://github.com/FraserChapman/plunger) ([v1.0.1](https://github.com/FraserChapman/plunger/releases/tag/v1.0.1), 1 year ago) - A Youtube adblock-block-un-blocker browser extension
 
 #### 🔨 My recent Pull Requests
 
 - [Fixes issue 1537 - OOB does not escape query selector](https://github.com/bigskysoftware/htmx/pull/2319) on [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) (9 months ago)
 - [Fixes Issue 1537 - OOB Swap to accept IDs with special characters](https://github.com/bigskysoftware/htmx/pull/2318) on [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) (9 months ago)
 - [Adds cacheBustingEnabled setting to simple browser](https://github.com/microsoft/vscode/pull/205106) on [microsoft/vscode](https://github.com/microsoft/vscode) (9 months ago)
-- [Fixes privacyenhanced being applied by default](https://github.com/FraserChapman/plunger/pull/3) on [FraserChapman/plunger](https://github.com/FraserChapman/plunger) (11 months ago)
+- [Fixes privacyenhanced being applied by default](https://github.com/FraserChapman/plunger/pull/3) on [FraserChapman/plunger](https://github.com/FraserChapman/plunger) (1 year ago)
 - [[script.module.cache] 1.0.3](https://github.com/xbmc/repo-scripts/pull/1125) on [xbmc/repo-scripts](https://github.com/xbmc/repo-scripts) (5 years ago)
 
 #### 📜 My recent blog posts
@@ -48,7 +48,7 @@
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang (1 month ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 month ago)
 - [NVIDIA/ChatRTX](https://github.com/NVIDIA/ChatRTX) - A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM (2 months ago)
-- [lukasoppermann/html5sortable](https://github.com/lukasoppermann/html5sortable) - VanillaJS sortable lists and grids using native HTML5 drag and drop API. (8 months ago)
+- [lukasoppermann/html5sortable](https://github.com/lukasoppermann/html5sortable) - VanillaJS sortable lists and grids using native HTML5 drag and drop API. (9 months ago)
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang&#39;s database/sql (10 months ago)
 
 
