@@ -31,8 +31,8 @@
 #### 📜 My recent blog posts
 
 - [Fictional Facts and Factual Fiction](https://fraserchapman.blogspot.com/2024/09/fictional-facts-and-factual-fiction.html) (2 months ago)
-- [Dark Matters](https://fraserchapman.blogspot.com/2024/08/dark-matters.html) (3 months ago)
-- [I choo choo choose utilitarianism](https://fraserchapman.blogspot.com/2024/04/i-choo-choo-choose-utilitarianism.html) (7 months ago)
+- [Dark Matters](https://fraserchapman.blogspot.com/2024/08/dark-matters.html) (4 months ago)
+- [I choo choo choose utilitarianism](https://fraserchapman.blogspot.com/2024/04/i-choo-choo-choose-utilitarianism.html) (8 months ago)
 - [initial git commit quotes...](https://fraserchapman.blogspot.com/2015/11/initial-git-commit-quotes.html) (9 years ago)
 - [Seven-segment bitmask joy when displaying 7](https://fraserchapman.blogspot.com/2015/11/7-segment-bitmask-joy-when-displaying-7.html) (9 years ago)
 
