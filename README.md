@@ -24,7 +24,7 @@
 
 - [Fixes issue 1537 - OOB does not escape query selector](https://github.com/bigskysoftware/htmx/pull/2319) on [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) (9 months ago)
 - [Fixes Issue 1537 - OOB Swap to accept IDs with special characters](https://github.com/bigskysoftware/htmx/pull/2318) on [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) (9 months ago)
-- [Adds cacheBustingEnabled setting to simple browser](https://github.com/microsoft/vscode/pull/205106) on [microsoft/vscode](https://github.com/microsoft/vscode) (9 months ago)
+- [Adds cacheBustingEnabled setting to simple browser](https://github.com/microsoft/vscode/pull/205106) on [microsoft/vscode](https://github.com/microsoft/vscode) (10 months ago)
 - [Fixes privacyenhanced being applied by default](https://github.com/FraserChapman/plunger/pull/3) on [FraserChapman/plunger](https://github.com/FraserChapman/plunger) (1 year ago)
 - [[script.module.cache] 1.0.3](https://github.com/xbmc/repo-scripts/pull/1125) on [xbmc/repo-scripts](https://github.com/xbmc/repo-scripts) (5 years ago)
 
