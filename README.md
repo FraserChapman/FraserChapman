@@ -30,7 +30,7 @@
 
 #### 📜 My recent blog posts
 
-- [Fictional Facts and Factual Fiction](https://fraserchapman.blogspot.com/2024/09/fictional-facts-and-factual-fiction.html) (2 months ago)
+- [Fictional Facts and Factual Fiction](https://fraserchapman.blogspot.com/2024/09/fictional-facts-and-factual-fiction.html) (3 months ago)
 - [Dark Matters](https://fraserchapman.blogspot.com/2024/08/dark-matters.html) (4 months ago)
 - [I choo choo choose utilitarianism](https://fraserchapman.blogspot.com/2024/04/i-choo-choo-choose-utilitarianism.html) (8 months ago)
 - [initial git commit quotes...](https://fraserchapman.blogspot.com/2015/11/initial-git-commit-quotes.html) (9 years ago)
@@ -47,7 +47,7 @@
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 months ago)
 - [NVIDIA/ChatRTX](https://github.com/NVIDIA/ChatRTX) - A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM (3 months ago)
 - [lukasoppermann/html5sortable](https://github.com/lukasoppermann/html5sortable) - VanillaJS sortable lists and grids using native HTML5 drag and drop API. (9 months ago)
-- [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang&#39;s database/sql (10 months ago)
+- [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang&#39;s database/sql (11 months ago)
 
 
 #### 💬 Feedback
