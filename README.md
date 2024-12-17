@@ -18,7 +18,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [FraserChapman/gowol](https://github.com/FraserChapman/gowol) ([v1.0.0](https://github.com/FraserChapman/gowol/releases/tag/v1.0.0), 3 months ago) - Go-based Wake-on-LAN (WOL) tool with cross-platform support for Linux, Windows, and macOS
-- [FraserChapman/gritstone100](https://github.com/FraserChapman/gritstone100) ([v1.0.0](https://github.com/FraserChapman/gritstone100/releases/tag/v1.0.0), 3 months ago) - Web site for the gritstone 100 trail in the Peak District 
+- [FraserChapman/gritstone100](https://github.com/FraserChapman/gritstone100) ([v1.0.0](https://github.com/FraserChapman/gritstone100/releases/tag/v1.0.0), 4 months ago) - Web site for the gritstone 100 trail in the Peak District 
 
 #### 🔨 My recent Pull Requests
 
