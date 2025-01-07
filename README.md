@@ -32,8 +32,8 @@
 
 - [The Blind Leading the Brand](https://fraserchapman.blogspot.com/2024/09/the-blind-leading-brand.html) (3 months ago)
 - [Fictional Facts and Factual Fiction](https://fraserchapman.blogspot.com/2024/09/fictional-facts-and-factual-fiction.html) (3 months ago)
-- [Dark Matters](https://fraserchapman.blogspot.com/2024/08/dark-matters.html) (4 months ago)
-- [I choo choo choose utilitarianism](https://fraserchapman.blogspot.com/2024/04/i-choo-choo-choose-utilitarianism.html) (8 months ago)
+- [Dark Matters](https://fraserchapman.blogspot.com/2024/08/dark-matters.html) (5 months ago)
+- [I choo choo choose utilitarianism](https://fraserchapman.blogspot.com/2024/04/i-choo-choo-choose-utilitarianism.html) (9 months ago)
 - [initial git commit quotes...](https://fraserchapman.blogspot.com/2015/11/initial-git-commit-quotes.html) (9 years ago)
 
 #### 📓 Gists I wrote
