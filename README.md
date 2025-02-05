@@ -46,11 +46,11 @@
 
 #### ⭐ Recent Stars
 
-- [FraserChapman/repository.film.archives](https://github.com/FraserChapman/repository.film.archives) - Kodi plugins for various film and television archives (1 day ago)
-- [FraserChapman/gowol](https://github.com/FraserChapman/gowol) - Go-based Wake-on-LAN (WOL) tool with cross-platform support for Linux, Windows, and macOS (1 day ago)
-- [FraserChapman/gritstone100](https://github.com/FraserChapman/gritstone100) - Web site for the gritstone 100 trail in the Peak District  (1 day ago)
-- [FraserChapman/xdebug-extension](https://github.com/FraserChapman/xdebug-extension) - A modern, dependency-free, cross-browser extension for Xdebug. (1 day ago)
 - [abagames/pic-pixeller](https://github.com/abagames/pic-pixeller) - A web-based tool that transforms regular images into pixel art (1 week ago)
+- [gliderlabs/ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang (4 months ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (4 months ago)
+- [NVIDIA/ChatRTX](https://github.com/NVIDIA/ChatRTX) - A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM (5 months ago)
+- [lukasoppermann/html5sortable](https://github.com/lukasoppermann/html5sortable) - VanillaJS sortable lists and grids using native HTML5 drag and drop API. (11 months ago)
 
 
 #### 💬 Feedback
