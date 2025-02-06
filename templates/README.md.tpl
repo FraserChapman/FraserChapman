@@ -20,11 +20,6 @@
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 📜 My recent blog posts
-{{range rss "https://www.blogger.com/feeds/7544696604745777726/posts/summary" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
-
 #### 📓 Gists I wrote
 {{range gists 5}}
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
