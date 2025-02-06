@@ -31,14 +31,6 @@
 - [Adds cacheBustingEnabled setting to simple browser](https://github.com/microsoft/vscode/pull/205106) on [microsoft/vscode](https://github.com/microsoft/vscode) (11 months ago)
 - [Fixes privacyenhanced being applied by default](https://github.com/FraserChapman/plunger/pull/3) on [FraserChapman/plunger](https://github.com/FraserChapman/plunger) (1 year ago)
 
-#### 📜 My recent blog posts
-
-- [The Blind Leading the Brand](https://fraserchapman.blogspot.com/2024/09/the-blind-leading-brand.html) (4 months ago)
-- [Fictional Facts and Factual Fiction](https://fraserchapman.blogspot.com/2024/09/fictional-facts-and-factual-fiction.html) (4 months ago)
-- [Dark Matters](https://fraserchapman.blogspot.com/2024/08/dark-matters.html) (6 months ago)
-- [I choo choo choose utilitarianism](https://fraserchapman.blogspot.com/2024/04/i-choo-choo-choose-utilitarianism.html) (10 months ago)
-- [initial git commit quotes...](https://fraserchapman.blogspot.com/2015/11/initial-git-commit-quotes.html) (9 years ago)
-
 #### 📓 Gists I wrote
 
 - [linear gradient with draggable stops.](https://gist.github.com/3487b048b07a74c3e20a) (9 years ago)
