@@ -2,11 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FraserChapman/xdebug-extension](https://github.com/FraserChapman/xdebug-extension) - A modern, dependency-free, cross-browser extension for Xdebug. (2 days ago)
+- [FraserChapman/xdebug-extension](https://github.com/FraserChapman/xdebug-extension) - A modern, dependency-free, cross-browser extension for Xdebug. (3 days ago)
 - [FraserChapman/plunger](https://github.com/FraserChapman/plunger) - A Youtube adblock-block-un-blocker browser extension (1 week ago)
 - [FraserChapman/gritstone100](https://github.com/FraserChapman/gritstone100) - Web site for the gritstone 100 trail in the Peak District  (3 months ago)
 - [FraserChapman/gowol](https://github.com/FraserChapman/gowol) - Go-based Wake-on-LAN (WOL) tool with cross-platform support for Linux, Windows, and macOS (4 months ago)
-- [FraserChapman/pigo](https://github.com/FraserChapman/pigo) - Go installation and removal scripts for Raspberry Pi ARM64 (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -18,7 +17,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FraserChapman/xdebug-extension](https://github.com/FraserChapman/xdebug-extension) ([v1.0.0](https://github.com/FraserChapman/xdebug-extension/releases/tag/v1.0.0), 6 days ago) - A modern, dependency-free, cross-browser extension for Xdebug.
+- [FraserChapman/xdebug-extension](https://github.com/FraserChapman/xdebug-extension) ([v1.0.0](https://github.com/FraserChapman/xdebug-extension/releases/tag/v1.0.0), 1 week ago) - A modern, dependency-free, cross-browser extension for Xdebug.
 - [FraserChapman/gowol](https://github.com/FraserChapman/gowol) ([v1.0.0](https://github.com/FraserChapman/gowol/releases/tag/v1.0.0), 5 months ago) - Go-based Wake-on-LAN (WOL) tool with cross-platform support for Linux, Windows, and macOS
 - [FraserChapman/gritstone100](https://github.com/FraserChapman/gritstone100) ([v1.0.0](https://github.com/FraserChapman/gritstone100/releases/tag/v1.0.0), 5 months ago) - Web site for the gritstone 100 trail in the Peak District 
 - [FraserChapman/plunger](https://github.com/FraserChapman/plunger) ([v1.0.1](https://github.com/FraserChapman/plunger/releases/tag/v1.0.1), 1 year ago) - A Youtube adblock-block-un-blocker browser extension
