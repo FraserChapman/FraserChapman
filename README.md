@@ -24,11 +24,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Version 1.0.1](https://github.com/FraserChapman/xdebug-extension/pull/2) on [FraserChapman/xdebug-extension](https://github.com/FraserChapman/xdebug-extension) (today)
 - [working optimised version of hash3_int](https://github.com/lastguest/murmurhash-php/pull/17) on [lastguest/murmurhash-php](https://github.com/lastguest/murmurhash-php) (1 week ago)
 - [Fixes issue 1537 - OOB does not escape query selector](https://github.com/bigskysoftware/htmx/pull/2319) on [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) (1 year ago)
 - [Fixes Issue 1537 - OOB Swap to accept IDs with special characters](https://github.com/bigskysoftware/htmx/pull/2318) on [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) (1 year ago)
 - [Adds cacheBustingEnabled setting to simple browser](https://github.com/microsoft/vscode/pull/205106) on [microsoft/vscode](https://github.com/microsoft/vscode) (1 year ago)
-- [Fixes privacyenhanced being applied by default](https://github.com/FraserChapman/plunger/pull/3) on [FraserChapman/plunger](https://github.com/FraserChapman/plunger) (1 year ago)
 
 #### 📓 Gists I wrote
 
