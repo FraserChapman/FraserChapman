@@ -43,16 +43,9 @@
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (4 months ago)
 - [NVIDIA/ChatRTX](https://github.com/NVIDIA/ChatRTX) - A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM (5 months ago)
 
-
-#### 💬 Feedback
-
-Say Hello, I don't bite!
-
 #### 📫 How to reach me
 
 - Work: https://github.com/fraser-twinkl
-- Instagram: https://www.instagram.com/fraserchapman/
-- Blog: https://fraserchapman.blogspot.com/
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
