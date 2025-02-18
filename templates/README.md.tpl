@@ -30,16 +30,9 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-
-#### 💬 Feedback
-
-Say Hello, I don't bite!
-
 #### 📫 How to reach me
 
 - Work: https://github.com/fraser-twinkl
-- Instagram: https://www.instagram.com/fraserchapman/
-- Blog: https://fraserchapman.blogspot.com/
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
