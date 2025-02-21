@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FraserChapman/xdebug-extension](https://github.com/FraserChapman/xdebug-extension) - A modern, dependency-free, cross-browser extension for Xdebug. (1 day ago)
+- [FraserChapman/xdebug-extension](https://github.com/FraserChapman/xdebug-extension) - A modern, dependency-free, cross-browser extension for Xdebug. (2 days ago)
 - [FraserChapman/plunger](https://github.com/FraserChapman/plunger) - A Youtube adblock-block-un-blocker browser extension (2 weeks ago)
 - [FraserChapman/gritstone100](https://github.com/FraserChapman/gritstone100) - Web site for the gritstone 100 trail in the Peak District  (3 months ago)
 - [FraserChapman/gowol](https://github.com/FraserChapman/gowol) - Go-based Wake-on-LAN (WOL) tool with cross-platform support for Linux, Windows, and macOS (4 months ago)
@@ -32,7 +32,7 @@
 
 #### 📓 Gists I wrote
 
-- [Antescher](https://gist.github.com/97b091e2c58df112b7919eb4e6b9faac) (1 day ago)
+- [Antescher](https://gist.github.com/97b091e2c58df112b7919eb4e6b9faac) (2 days ago)
 - [linear gradient with draggable stops.](https://gist.github.com/3487b048b07a74c3e20a) (9 years ago)
 - [Down-sampling time series data](https://gist.github.com/649f1aba28f6bc941d5c) (9 years ago)
 
