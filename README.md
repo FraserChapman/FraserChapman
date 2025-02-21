@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [MichaelLysik/xdebug-extension](https://github.com/MichaelLysik/xdebug-extension) - A modern, dependency-free, cross-browser extension for Xdebug. (2 days ago)
+- [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) - A modern, dependency-free, cross-browser extension for Xdebug. (2 days ago)
 - [FraserChapman/plunger](https://github.com/FraserChapman/plunger) - A Youtube adblock-block-un-blocker browser extension (2 weeks ago)
 - [FraserChapman/gritstone100](https://github.com/FraserChapman/gritstone100) - Web site for the gritstone 100 trail in the Peak District  (3 months ago)
 - [FraserChapman/gowol](https://github.com/FraserChapman/gowol) - Go-based Wake-on-LAN (WOL) tool with cross-platform support for Linux, Windows, and macOS (4 months ago)
@@ -17,14 +17,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [MichaelLysik/xdebug-extension](https://github.com/MichaelLysik/xdebug-extension) ([v1.0.1](https://github.com/MichaelLysik/xdebug-extension/releases/tag/v1.0.1), 1 week ago) - A modern, dependency-free, cross-browser extension for Xdebug.
+- [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) ([v1.0.1](https://github.com/JetBrains/xdebug-extension/releases/tag/v1.0.1), 1 week ago) - A modern, dependency-free, cross-browser extension for Xdebug.
 - [FraserChapman/gowol](https://github.com/FraserChapman/gowol) ([v1.0.0](https://github.com/FraserChapman/gowol/releases/tag/v1.0.0), 5 months ago) - Go-based Wake-on-LAN (WOL) tool with cross-platform support for Linux, Windows, and macOS
 - [FraserChapman/gritstone100](https://github.com/FraserChapman/gritstone100) ([v1.0.0](https://github.com/FraserChapman/gritstone100/releases/tag/v1.0.0), 6 months ago) - Web site for the gritstone 100 trail in the Peak District 
 - [FraserChapman/plunger](https://github.com/FraserChapman/plunger) ([v1.0.1](https://github.com/FraserChapman/plunger/releases/tag/v1.0.1), 1 year ago) - A Youtube adblock-block-un-blocker browser extension
 
 #### 🔨 My recent Pull Requests
 
-- [Version 1.0.1](https://github.com/MichaelLysik/xdebug-extension/pull/2) on [MichaelLysik/xdebug-extension](https://github.com/MichaelLysik/xdebug-extension) (1 week ago)
+- [Version 1.0.1](https://github.com/JetBrains/xdebug-extension/pull/2) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (1 week ago)
 - [working optimised version of hash3_int](https://github.com/lastguest/murmurhash-php/pull/17) on [lastguest/murmurhash-php](https://github.com/lastguest/murmurhash-php) (2 weeks ago)
 - [Fixes issue 1537 - OOB does not escape query selector](https://github.com/bigskysoftware/htmx/pull/2319) on [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) (1 year ago)
 - [Fixes Issue 1537 - OOB Swap to accept IDs with special characters](https://github.com/bigskysoftware/htmx/pull/2318) on [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) (1 year ago)
