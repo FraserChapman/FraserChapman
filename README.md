@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) - A modern, dependency-free, cross-browser extension for Xdebug. (today)
 - [justinfrankel/licecap](https://github.com/justinfrankel/licecap) - LICEcap simple animated screen capture tool for Windows and OS X (1 week ago)
 - [abagames/pic-pixeller](https://github.com/abagames/pic-pixeller) - A web-based tool that transforms regular images into pixel art (3 weeks ago)
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang (4 months ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (5 months ago)
-- [NVIDIA/ChatRTX](https://github.com/NVIDIA/ChatRTX) - A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM (5 months ago)
 
 #### 📫 How to reach me
 
