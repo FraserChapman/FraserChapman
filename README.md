@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FraserChapman/plugin.video.iwm](https://github.com/FraserChapman/plugin.video.iwm) - Kodi plugin for the Imperial War Museum film archive (2 days ago)
-- [FraserChapman/plugin.video.bfi](https://github.com/FraserChapman/plugin.video.bfi) - Kodi plugin for the BFI Player (2 days ago)
-- [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) - A modern, dependency-free, cross-browser extension for Xdebug. (4 days ago)
+- [FraserChapman/plugin.video.iwm](https://github.com/FraserChapman/plugin.video.iwm) - Kodi plugin for the Imperial War Museum film archive (3 days ago)
+- [FraserChapman/plugin.video.bfi](https://github.com/FraserChapman/plugin.video.bfi) - Kodi plugin for the BFI Player (3 days ago)
+- [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) - A modern, dependency-free, cross-browser extension for Xdebug. (5 days ago)
 - [FraserChapman/plunger](https://github.com/FraserChapman/plunger) - A Youtube adblock-block-un-blocker browser extension (3 weeks ago)
 - [FraserChapman/gritstone100](https://github.com/FraserChapman/gritstone100) - Web site for the gritstone 100 trail in the Peak District  (3 months ago)
 
@@ -34,15 +34,15 @@
 
 #### 📓 Gists I wrote
 
-- [Antescher](https://gist.github.com/97b091e2c58df112b7919eb4e6b9faac) (4 days ago)
+- [Antescher](https://gist.github.com/97b091e2c58df112b7919eb4e6b9faac) (5 days ago)
 - [linear gradient with draggable stops.](https://gist.github.com/3487b048b07a74c3e20a) (9 years ago)
 - [Down-sampling time series data](https://gist.github.com/649f1aba28f6bc941d5c) (9 years ago)
 
 #### ⭐ Recent Stars
 
-- [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) - A modern, dependency-free, cross-browser extension for Xdebug. (2 days ago)
+- [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) - A modern, dependency-free, cross-browser extension for Xdebug. (3 days ago)
 - [justinfrankel/licecap](https://github.com/justinfrankel/licecap) - LICEcap simple animated screen capture tool for Windows and OS X (1 week ago)
-- [abagames/pic-pixeller](https://github.com/abagames/pic-pixeller) - A web-based tool that transforms regular images into pixel art (4 weeks ago)
+- [abagames/pic-pixeller](https://github.com/abagames/pic-pixeller) - A web-based tool that transforms regular images into pixel art (1 month ago)
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang (4 months ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (5 months ago)
 
