@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) - A modern, dependency-free, cross-browser extension for Xdebug. (today)
 - [FraserChapman/plugin.video.iwm](https://github.com/FraserChapman/plugin.video.iwm) - Kodi plugin for the Imperial War Museum film archive (3 days ago)
 - [FraserChapman/plugin.video.bfi](https://github.com/FraserChapman/plugin.video.bfi) - Kodi plugin for the BFI Player (3 days ago)
-- [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) - A modern, dependency-free, cross-browser extension for Xdebug. (5 days ago)
 - [FraserChapman/plunger](https://github.com/FraserChapman/plunger) - A Youtube adblock-block-un-blocker browser extension (3 weeks ago)
 - [FraserChapman/gritstone100](https://github.com/FraserChapman/gritstone100) - Web site for the gritstone 100 trail in the Peak District  (3 months ago)
 
