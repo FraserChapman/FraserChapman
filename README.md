@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove unused cookies permission from the manifest](https://github.com/JetBrains/xdebug-extension/pull/5) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (today)
 - [Version 1.0.1](https://github.com/JetBrains/xdebug-extension/pull/2) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (1 week ago)
 - [working optimised version of hash3_int](https://github.com/lastguest/murmurhash-php/pull/17) on [lastguest/murmurhash-php](https://github.com/lastguest/murmurhash-php) (3 weeks ago)
 - [Fixes issue 1537 - OOB does not escape query selector](https://github.com/bigskysoftware/htmx/pull/2319) on [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) (1 year ago)
 - [Fixes Issue 1537 - OOB Swap to accept IDs with special characters](https://github.com/bigskysoftware/htmx/pull/2318) on [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) (1 year ago)
-- [Adds cacheBustingEnabled setting to simple browser](https://github.com/microsoft/vscode/pull/205106) on [microsoft/vscode](https://github.com/microsoft/vscode) (1 year ago)
 
 #### 📓 Gists I wrote
 
