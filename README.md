@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) - A modern, dependency-free, cross-browser extension for Xdebug. (1 week ago)
+- [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) - A modern, dependency-free, cross-browser extension for Xdebug. (today)
 - [FraserChapman/plugin.video.iwm](https://github.com/FraserChapman/plugin.video.iwm) - Kodi plugin for the Imperial War Museum film archive (1 week ago)
 - [FraserChapman/plugin.video.bfi](https://github.com/FraserChapman/plugin.video.bfi) - Kodi plugin for the BFI Player (1 week ago)
 - [FraserChapman/plunger](https://github.com/FraserChapman/plunger) - A Youtube adblock-block-un-blocker browser extension (1 month ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) ([v1.0.1](https://github.com/JetBrains/xdebug-extension/releases/tag/v1.0.1), 2 weeks ago) - A modern, dependency-free, cross-browser extension for Xdebug.
+- [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) ([v1.0.2](https://github.com/JetBrains/xdebug-extension/releases/tag/v1.0.2), today) - A modern, dependency-free, cross-browser extension for Xdebug.
 - [FraserChapman/gowol](https://github.com/FraserChapman/gowol) ([v1.0.0](https://github.com/FraserChapman/gowol/releases/tag/v1.0.0), 6 months ago) - Go-based Wake-on-LAN (WOL) tool with cross-platform support for Linux, Windows, and macOS
 - [FraserChapman/gritstone100](https://github.com/FraserChapman/gritstone100) ([v1.0.0](https://github.com/FraserChapman/gritstone100/releases/tag/v1.0.0), 6 months ago) - Web site for the gritstone 100 trail in the Peak District 
 - [FraserChapman/plunger](https://github.com/FraserChapman/plunger) ([v1.0.1](https://github.com/FraserChapman/plunger/releases/tag/v1.0.1), 1 year ago) - A Youtube adblock-block-un-blocker browser extension
@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Version 1.0.2](https://github.com/JetBrains/xdebug-extension/pull/8) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (today)
 - [Remove unused cookies permission from the manifest](https://github.com/JetBrains/xdebug-extension/pull/5) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (1 week ago)
 - [Version 1.0.1](https://github.com/JetBrains/xdebug-extension/pull/2) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (2 weeks ago)
 - [working optimised version of hash3_int](https://github.com/lastguest/murmurhash-php/pull/17) on [lastguest/murmurhash-php](https://github.com/lastguest/murmurhash-php) (1 month ago)
 - [Fixes issue 1537 - OOB does not escape query selector](https://github.com/bigskysoftware/htmx/pull/2319) on [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) (1 year ago)
-- [Fixes Issue 1537 - OOB Swap to accept IDs with special characters](https://github.com/bigskysoftware/htmx/pull/2318) on [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) (1 year ago)
 
 #### 📓 Gists I wrote
 
