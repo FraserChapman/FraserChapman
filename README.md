@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Adds dark mode support to options and popup](https://github.com/JetBrains/xdebug-extension/pull/14) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (today)
+- [Set domain on cookie](https://github.com/JetBrains/xdebug-extension/pull/13) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (today)
 - [Version 1.0.2](https://github.com/JetBrains/xdebug-extension/pull/8) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (6 days ago)
 - [Remove unused cookies permission from the manifest](https://github.com/JetBrains/xdebug-extension/pull/5) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (2 weeks ago)
 - [Version 1.0.1](https://github.com/JetBrains/xdebug-extension/pull/2) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (3 weeks ago)
-- [working optimised version of hash3_int](https://github.com/lastguest/murmurhash-php/pull/17) on [lastguest/murmurhash-php](https://github.com/lastguest/murmurhash-php) (1 month ago)
-- [Fixes issue 1537 - OOB does not escape query selector](https://github.com/bigskysoftware/htmx/pull/2319) on [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) (1 year ago)
 
 #### 📓 Gists I wrote
 
