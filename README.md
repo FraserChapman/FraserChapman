@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [add upsized trace and profile icons](https://github.com/JetBrains/xdebug-extension/pull/20) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (today)
+- [Allow the addon icon to appear within the address bar in Firefox ](https://github.com/JetBrains/xdebug-extension/pull/19) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (today)
 - [Adds i18n support for options and popup](https://github.com/JetBrains/xdebug-extension/pull/15) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (2 days ago)
 - [Adds dark mode support to options and popup](https://github.com/JetBrains/xdebug-extension/pull/14) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (4 days ago)
 - [Set domain on cookie](https://github.com/JetBrains/xdebug-extension/pull/13) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (4 days ago)
-- [Version 1.0.2](https://github.com/JetBrains/xdebug-extension/pull/8) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (1 week ago)
-- [Remove unused cookies permission from the manifest](https://github.com/JetBrains/xdebug-extension/pull/5) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
