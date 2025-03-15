@@ -26,7 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [add upsized trace and profile icons](https://github.com/JetBrains/xdebug-extension/pull/20) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (today)
+- [Add higher resolution icons to prevent blurring on retina displays](https://github.com/JetBrains/xdebug-extension/pull/20) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (today)
 - [Allow the addon icon to appear within the address bar in Firefox ](https://github.com/JetBrains/xdebug-extension/pull/19) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (today)
 - [Adds i18n support for options and popup](https://github.com/JetBrains/xdebug-extension/pull/15) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (2 days ago)
 - [Adds dark mode support to options and popup](https://github.com/JetBrains/xdebug-extension/pull/14) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (4 days ago)
