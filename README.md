@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) - A modern, dependency-free, cross-browser extension for Xdebug. (today)
+- [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) - A modern, dependency-free, cross-browser extension for Xdebug. (1 day ago)
 - [FraserChapman/plugin.video.iwm](https://github.com/FraserChapman/plugin.video.iwm) - Kodi plugin for the Imperial War Museum film archive (3 weeks ago)
 - [FraserChapman/plugin.video.bfi](https://github.com/FraserChapman/plugin.video.bfi) - Kodi plugin for the BFI Player (3 weeks ago)
 - [FraserChapman/plunger](https://github.com/FraserChapman/plunger) - A Youtube adblock-block-un-blocker browser extension (1 month ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) ([v1.0.3](https://github.com/JetBrains/xdebug-extension/releases/tag/v1.0.3), 4 days ago) - A modern, dependency-free, cross-browser extension for Xdebug.
+- [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) ([v1.0.3](https://github.com/JetBrains/xdebug-extension/releases/tag/v1.0.3), 5 days ago) - A modern, dependency-free, cross-browser extension for Xdebug.
 - [FraserChapman/gowol](https://github.com/FraserChapman/gowol) ([v1.0.0](https://github.com/FraserChapman/gowol/releases/tag/v1.0.0), 6 months ago) - Go-based Wake-on-LAN (WOL) tool with cross-platform support for Linux, Windows, and macOS
 - [FraserChapman/gritstone100](https://github.com/FraserChapman/gritstone100) ([v1.0.0](https://github.com/FraserChapman/gritstone100/releases/tag/v1.0.0), 6 months ago) - Web site for the gritstone 100 trail in the Peak District 
 - [FraserChapman/plunger](https://github.com/FraserChapman/plunger) ([v1.0.1](https://github.com/FraserChapman/plunger/releases/tag/v1.0.1), 1 year ago) - A Youtube adblock-block-un-blocker browser extension
@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add higher resolution icons to prevent blurring on retina displays](https://github.com/JetBrains/xdebug-extension/pull/20) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (today)
-- [Allow the addon icon to appear within the address bar in Firefox ](https://github.com/JetBrains/xdebug-extension/pull/19) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (today)
-- [Adds i18n support for options and popup](https://github.com/JetBrains/xdebug-extension/pull/15) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (2 days ago)
-- [Adds dark mode support to options and popup](https://github.com/JetBrains/xdebug-extension/pull/14) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (4 days ago)
-- [Set domain on cookie](https://github.com/JetBrains/xdebug-extension/pull/13) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (4 days ago)
+- [Add higher resolution icons to prevent blurring on retina displays](https://github.com/JetBrains/xdebug-extension/pull/20) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (1 day ago)
+- [Allow the addon icon to appear within the address bar in Firefox ](https://github.com/JetBrains/xdebug-extension/pull/19) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (1 day ago)
+- [Adds i18n support for options and popup](https://github.com/JetBrains/xdebug-extension/pull/15) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (3 days ago)
+- [Adds dark mode support to options and popup](https://github.com/JetBrains/xdebug-extension/pull/14) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (5 days ago)
+- [Set domain on cookie](https://github.com/JetBrains/xdebug-extension/pull/13) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (5 days ago)
 
 #### 📓 Gists I wrote
 
