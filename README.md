@@ -42,7 +42,7 @@
 
 - [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) - A modern, dependency-free, cross-browser extension for Xdebug. (1 month ago)
 - [justinfrankel/licecap](https://github.com/justinfrankel/licecap) - LICEcap simple animated screen capture tool for Windows and OS X (1 month ago)
-- [abagames/pic-pixeller](https://github.com/abagames/pic-pixeller) - A web-based tool that transforms regular images into pixel art (1 month ago)
+- [abagames/pic-pixeller](https://github.com/abagames/pic-pixeller) - A web-based tool that transforms regular images into pixel art (2 months ago)
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang (5 months ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (6 months ago)
 
