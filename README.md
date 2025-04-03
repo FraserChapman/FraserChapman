@@ -5,7 +5,7 @@
 - [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) - A modern, dependency-free, cross-browser extension for Xdebug. (2 weeks ago)
 - [FraserChapman/plugin.video.iwm](https://github.com/FraserChapman/plugin.video.iwm) - Kodi plugin for the Imperial War Museum film archive (1 month ago)
 - [FraserChapman/plugin.video.bfi](https://github.com/FraserChapman/plugin.video.bfi) - Kodi plugin for the BFI Player (1 month ago)
-- [FraserChapman/plunger](https://github.com/FraserChapman/plunger) - A Youtube adblock-block-un-blocker browser extension (1 month ago)
+- [FraserChapman/plunger](https://github.com/FraserChapman/plunger) - A Youtube adblock-block-un-blocker browser extension (2 months ago)
 - [FraserChapman/gritstone100](https://github.com/FraserChapman/gritstone100) - Web site for the gritstone 100 trail in the Peak District  (5 months ago)
 
 #### 🌱 My latest projects
@@ -28,7 +28,7 @@
 
 - [Add higher resolution icons to prevent blurring on retina displays](https://github.com/JetBrains/xdebug-extension/pull/20) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (2 weeks ago)
 - [Allow the addon icon to appear within the address bar in Firefox ](https://github.com/JetBrains/xdebug-extension/pull/19) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (2 weeks ago)
-- [Adds i18n support for options and popup](https://github.com/JetBrains/xdebug-extension/pull/15) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (2 weeks ago)
+- [Adds i18n support for options and popup](https://github.com/JetBrains/xdebug-extension/pull/15) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (3 weeks ago)
 - [Adds dark mode support to options and popup](https://github.com/JetBrains/xdebug-extension/pull/14) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (3 weeks ago)
 - [Set domain on cookie](https://github.com/JetBrains/xdebug-extension/pull/13) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (3 weeks ago)
 
