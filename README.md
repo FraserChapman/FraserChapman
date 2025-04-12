@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Ensure triggers with special characters are properly encoded and decoded ](https://github.com/JetBrains/xdebug-extension/pull/23) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (today)
 - [Add higher resolution icons to prevent blurring on retina displays](https://github.com/JetBrains/xdebug-extension/pull/20) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (4 weeks ago)
 - [Allow the addon icon to appear within the address bar in Firefox ](https://github.com/JetBrains/xdebug-extension/pull/19) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (4 weeks ago)
 - [Adds i18n support for options and popup](https://github.com/JetBrains/xdebug-extension/pull/15) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (1 month ago)
 - [Adds dark mode support to options and popup](https://github.com/JetBrains/xdebug-extension/pull/14) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (1 month ago)
-- [Set domain on cookie](https://github.com/JetBrains/xdebug-extension/pull/13) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (1 month ago)
 
 #### 📓 Gists I wrote
 
