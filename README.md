@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) - A modern, dependency-free, cross-browser extension for Xdebug. (6 days ago)
+- [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) - A modern, dependency-free, cross-browser extension for Xdebug. (1 week ago)
 - [FraserChapman/plugin.video.iwm](https://github.com/FraserChapman/plugin.video.iwm) - Kodi plugin for the Imperial War Museum film archive (2 months ago)
 - [FraserChapman/plugin.video.bfi](https://github.com/FraserChapman/plugin.video.bfi) - Kodi plugin for the BFI Player (2 months ago)
 - [FraserChapman/plunger](https://github.com/FraserChapman/plunger) - A Youtube adblock-block-un-blocker browser extension (2 months ago)
@@ -26,7 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [add help link to options for custom-shortcuts](https://github.com/JetBrains/xdebug-extension/pull/26) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (6 days ago)
+- [add help link to options for custom-shortcuts](https://github.com/JetBrains/xdebug-extension/pull/26) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (1 week ago)
 - [Ensure triggers with special characters are properly encoded and decoded ](https://github.com/JetBrains/xdebug-extension/pull/23) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (1 week ago)
 - [Add higher resolution icons to prevent blurring on retina displays](https://github.com/JetBrains/xdebug-extension/pull/20) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (1 month ago)
 - [Allow the addon icon to appear within the address bar in Firefox ](https://github.com/JetBrains/xdebug-extension/pull/19) on [JetBrains/xdebug-extension](https://github.com/JetBrains/xdebug-extension) (1 month ago)
